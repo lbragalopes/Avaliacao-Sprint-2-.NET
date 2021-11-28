@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1018 Cedulas", "1018 Cedula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1019 ConversaoDeTempo", "1019 ConversaoDeTempo\1019 ConversaoDeTempo.csproj", "{44EE4809-2AB3-46E0-BEBF-82DB44BF99D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1020 IdadeEmDias", "1020 IdadeEmDias\1020 IdadeEmDias.csproj", "{875E8C9D-3DAA-49A2-9AEB-41F66F00B5FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{44EE4809-2AB3-46E0-BEBF-82DB44BF99D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44EE4809-2AB3-46E0-BEBF-82DB44BF99D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44EE4809-2AB3-46E0-BEBF-82DB44BF99D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875E8C9D-3DAA-49A2-9AEB-41F66F00B5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875E8C9D-3DAA-49A2-9AEB-41F66F00B5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875E8C9D-3DAA-49A2-9AEB-41F66F00B5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875E8C9D-3DAA-49A2-9AEB-41F66F00B5FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
