@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1020 IdadeEmDias", "1020 Id
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021 NotasEMoedas", "1021 NotasEMoedas\1021 NotasEMoedas.csproj", "{7CD3B324-FAEF-4C3E-A6BE-9A47E5B20104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1234 SentecaDancante", "1234 SentecaDancante\1234 SentecaDancante.csproj", "{BD7A5159-73CE-450D-B79F-6D2EBFB97AD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7CD3B324-FAEF-4C3E-A6BE-9A47E5B20104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD3B324-FAEF-4C3E-A6BE-9A47E5B20104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD3B324-FAEF-4C3E-A6BE-9A47E5B20104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD7A5159-73CE-450D-B79F-6D2EBFB97AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7A5159-73CE-450D-B79F-6D2EBFB97AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7A5159-73CE-450D-B79F-6D2EBFB97AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7A5159-73CE-450D-B79F-6D2EBFB97AD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
