@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avaliacao Sprint 2  .NET", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009 - SalarioComBonus", "1009 - SalarioComBonus\1009 - SalarioComBonus.csproj", "{AC133CAA-08C5-48BB-99E5-B681CAB2207A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1010 - CalculoSimples", "1010 - CalculoSimples\1010 - CalculoSimples.csproj", "{6CFE9DA1-E52C-4A53-AE44-348F45A792AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AC133CAA-08C5-48BB-99E5-B681CAB2207A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC133CAA-08C5-48BB-99E5-B681CAB2207A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC133CAA-08C5-48BB-99E5-B681CAB2207A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CFE9DA1-E52C-4A53-AE44-348F45A792AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFE9DA1-E52C-4A53-AE44-348F45A792AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFE9DA1-E52C-4A53-AE44-348F45A792AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFE9DA1-E52C-4A53-AE44-348F45A792AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
