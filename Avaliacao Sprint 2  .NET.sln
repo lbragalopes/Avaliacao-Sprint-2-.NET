@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1259 ParesEImpares", "1259 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1251 DigaMeAFrequencia", "1251 DigaMeAFrequencia\1251 DigaMeAFrequencia.csproj", "{4707D5E6-C049-484A-90F9-5330444C93B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1507 Subsequencias", "1507 Subsequencias\1507 Subsequencias.csproj", "{86E42C61-A3E4-4B50-8920-619A4803BA84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4707D5E6-C049-484A-90F9-5330444C93B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4707D5E6-C049-484A-90F9-5330444C93B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4707D5E6-C049-484A-90F9-5330444C93B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E42C61-A3E4-4B50-8920-619A4803BA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E42C61-A3E4-4B50-8920-619A4803BA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E42C61-A3E4-4B50-8920-619A4803BA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E42C61-A3E4-4B50-8920-619A4803BA84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
