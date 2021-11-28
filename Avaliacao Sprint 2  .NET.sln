@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1010 - CalculoSimples", "10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1013 - OMaior", "1013 - OMaior\1013 - OMaior.csproj", "{A9CA4878-E4F9-4152-BF5D-F3D5BD83FE85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1018 Cedulas", "1018 Cedulas\1018 Cedulas.csproj", "{3343623E-887C-431F-B34A-7F1FF391F533}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A9CA4878-E4F9-4152-BF5D-F3D5BD83FE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9CA4878-E4F9-4152-BF5D-F3D5BD83FE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9CA4878-E4F9-4152-BF5D-F3D5BD83FE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3343623E-887C-431F-B34A-7F1FF391F533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3343623E-887C-431F-B34A-7F1FF391F533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3343623E-887C-431F-B34A-7F1FF391F533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3343623E-887C-431F-B34A-7F1FF391F533}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
