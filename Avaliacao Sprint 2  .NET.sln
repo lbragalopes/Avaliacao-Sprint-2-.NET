@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1234 SentecaDancante", "123
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1244 OrdenacaoPorTamanho", "1244 OrdenacaoPorTamanho\1244 OrdenacaoPorTamanho.csproj", "{F99E78E2-743F-4161-8B68-0A2C725F49AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1259 ParesEImpares", "1259 ParesEImpares\1259 ParesEImpares.csproj", "{F7AB6093-BEA4-43F0-A9D6-6C6574815424}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F99E78E2-743F-4161-8B68-0A2C725F49AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F99E78E2-743F-4161-8B68-0A2C725F49AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F99E78E2-743F-4161-8B68-0A2C725F49AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AB6093-BEA4-43F0-A9D6-6C6574815424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AB6093-BEA4-43F0-A9D6-6C6574815424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AB6093-BEA4-43F0-A9D6-6C6574815424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AB6093-BEA4-43F0-A9D6-6C6574815424}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
