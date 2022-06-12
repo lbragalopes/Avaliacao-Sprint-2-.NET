@@ -1,9 +1,5 @@
-# Programa de Bolsa Compass.UOL
+# Exercícios da plataforma Beecrowd (antiga URI) resolvidos em C#
 
-## Avaliacao-Sprint-2-.NET
-
-Resolução de exercícios propostos pelo programa de bolsa.
-### A relação das questões segue no arquivo <Avaliação - Sprint 2 .NET.pdf>.
 
 
 
